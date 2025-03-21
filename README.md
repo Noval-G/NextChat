@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">NextChat (ChatGPT Next Web)</h1>
+<h1 align="center">NextChat</h1>
 
 English / [简体中文](./README_CN.md)
 
